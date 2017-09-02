@@ -110,9 +110,9 @@
         "placeholderColor": "#dedede",
         "tag": {
           "textColor": "#a0a0a0",
-          "selectedTextColor": "#de4751",
+          "selectedTextColor": "#fbfbfb",
           "backgroundColor": "#fbfbfb",
-          "selectedBackgroundColor": "#fbfbfb",
+          "selectedBackgroundColor": "#de4751",
           "borderRadius": 0
         }
       },
