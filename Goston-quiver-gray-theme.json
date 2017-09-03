@@ -1,0 +1,248 @@
+{
+  "mainWindow": {
+    "divider": {
+      "topColor": "#dedede",
+      "middleColor": "#dedede",
+      "bottomColor": "#dedede"
+    }
+  },
+  "sidebar": {
+    "topBar": {
+      "backgroundColor": "#2e3235",
+      "bottomBorderColor": "#2e3235",
+      "segmentedControl": {
+        "tintColor": "#a0a0a0",
+        "borderWidth": 1,
+        "borderRadius": 1
+      }
+    },
+    "table": {
+      "backgroundColor": "#2e3235",
+      "textColor": "#f0f0f0",
+      "selectedTextColor": "#f0f0f0",
+      "emphasizedTextColor": "#f0f0f0",
+      "iconColor": "#ccc",
+      "selectedIconColor": "#ccc",
+      "emphasizedIconColor": "#ccc",
+      "selectedRowBgColor": "#666",
+      "emphasizedRowBgColor": "#666"
+    },
+    "bottomBar": {
+      "backgroundColor": "#2e3235",
+      "topBorderColor": "#2e3235",
+      "textColor": "#a0a0a0",
+      "controlColor": "#666666",
+      "pressedControlColor": "#de4751"
+    }
+  },
+  "noteList": {
+    "topBar": {
+      "backgroundColor": "#f0f0f0",
+      "bottomBorderColor": "#f0f0f0",
+      "controlColor": "#a0a0a0",
+      "pressedControlColor": "#de4751"
+    },
+    "tableHeader": {
+      "backgroundColor": "#f0f0f0",
+      "bottomBorderColor": "#cdcdcd",
+      "controlColor": "#a0a0a0",
+      "pressedControlColor": "#de4751"
+    },
+    "table": {
+      "backgroundColor": "#f0f0f0",
+      "separatorColor": "#cdcdcd",
+      "textColor": "#333",
+      "selectedTextColor": "#333",
+      "emphasizedTextColor": "#f0f0f0",
+      "detailColor": "#a0a0a0",
+      "selectedDetailColor": "#a0a0a0",
+      "emphasizedDetailColor": "#e9b7bb",
+      "iconColor": "#a0a0a0",
+      "selectedIconColor": "#a0a0a0",
+      "emphasizedIconColor": "#e9b7bb",
+      "rowBgColor": "#f0f0f0",
+      "altRowBgColor": "#f0f0f0",
+      "selectedRowBgColor": "#dedede",
+      "emphasizedRowBgColor": "#de4751",
+      "draggedRowBgColor": "#dedede",
+      "emptyTextColor": "#545454"
+    },
+    "bottomBar": {
+      "backgroundColor": "#f0f0f0",
+      "searchField": {
+        "textColor": "#a0a0a0",
+        "controlColor": "#a0a0a0",
+        "pressedControlColor": "#de4751",
+        "backgroundColor": "#f0f0f0",
+        "borderColor": "#cacaca",
+        "placeholderColor": "#cdcdcd"
+      }
+    }
+  },
+  "noteView": {
+    "backgroundColor": "#f0f0f0",
+    "dividerColor": "#a0a0a0",
+    "topBar": {
+      "backgroundColor": "#f0f0f0",
+      "bottomBorderColor": "#f0f0f0",
+      "controlColor": "#a0a0a0",
+      "pressedControlColor": "#de4751",
+      "segmentedControl": {
+        "tintColor": "#a0a0a0",
+        "borderWidth": 1,
+        "borderRadius": 1
+      }
+    },
+    "toolbar": {
+      "backgroundColor": "#f0f0f0",
+      "dividerColor": "#f0f0f0",
+      "middleDividerColor": "#f0f0f0",
+      "controlColor": "#a0a0a0",
+      "pressedControlColor": "#de4751",
+      "iconColor": "#a0a0a0",
+      "textColor": "#a0a0a0",
+      "popUpButton": {
+        "titleColor": "#a0a0a0",
+        "borderColor": "#cdcdcd"
+      },
+      "tagField": {
+        "textColor": "#a0a0a0",
+        "placeholderColor": "#cdcdcd",
+        "tag": {
+          "textColor": "#a0a0a0",
+          "selectedTextColor": "#f0f0f0",
+          "backgroundColor": "#f0f0f0",
+          "selectedBackgroundColor": "#de4751",
+          "borderRadius": 0
+        }
+      },
+      "formatBar": {
+        "controlColor": "#a0a0a0",
+        "highlightColor": "#de4751"
+      },
+      "searchField": {
+        "textColor": "#a0a0a0",
+        "controlColor": "#a0a0a0",
+        "pressedControlColor": "#de4751",
+        "backgroundColor": "#f0f0f0",
+        "borderColor": "#cdcdcd",
+        "placeholderColor": "#cdcdcd"
+      },
+      "doneButton": {
+        "textColor": "#de4751",
+        "highlightBackgroundColor": "#de4751",
+        "borderColor": "#e9b7bb"
+      }
+    },
+    "bottomBar": {
+      "backgroundColor": "#f0f0f0",
+      "controlColor": "#a0a0a0",
+      "pressedControlColor": "#de4751"
+    }
+  },
+  "multiNote": {
+    "backgroundColor": "#f0f0f0",
+    "textColor": "#a0a0a0",
+    "button": {
+      "tintColor": "#de4751",
+      "highlightColor": "#f0f0f0",
+      "backgroundColor": "#f0f0f0",
+      "highlightBackgroundColor": "#de4751",
+      "borderColor": "#e9b7bb",
+      "highlightBorderColor": "#de4751"
+    },
+    "tagField": {
+      "textColor": "#a0a0a0",
+      "placeholderColor": "#cdcdcd",
+      "backgroundColor": "#f0f0f0",
+      "borderColor": "#cdcdcd",
+      "borderRadius": 1,
+      "tag": {
+        "textColor": "#a0a0a0",
+        "selectedTextColor": "#de4751",
+        "backgroundColor": "#f0f0f0",
+        "selectedBackgroundColor": "#f0f0f0",
+        "borderRadius": 1
+      }
+    }
+  },
+  "notebookPicker": {
+    "backgroundColor": "#f0f0f0",
+    "textColor": "#a0a0a0",
+    "dividerColor": "#f0f0f0",
+    "searchField": {
+      "textColor": "#a0a0a0",
+      "controlColor": "#a0a0a0",
+      "pressedControlColor": "#de4751",
+      "backgroundColor": "#f0f0f0",
+      "borderColor": "#cdcdcd",
+      "placeholderColor": "#cdcdcd"
+    },
+    "table": {
+      "textColor": "#a0a0a0",
+      "selectedTextColor": "#f0f0f0",
+      "emphasizedTextColor": "#f0f0f0",
+      "iconColor": "#de4751",
+      "selectedIconColor": "#e9b7bb",
+      "emphasizedIconColor": "#e9b7bb",
+      "selectedRowBgColor": "#de4751",
+      "emphasizedRowBgColor": "#de4751",
+      "emptyTextColor": "#a0a0a0"
+    }
+  },
+  "searchView": {
+    "backgroundColor": "#f0f0f0",
+    "searchField": {
+      "textColor": "#a0a0a0",
+      "controlColor": "#a0a0a0",
+      "pressedControlColor": "#de4751",
+      "backgroundColor": "#f0f0f0",
+      "borderColor": "#dedede",
+      "placeholderColor": "#dedede"
+    },
+    "tableHeader": {
+      "backgroundColor": "#f0f0f0",
+      "topBorderColor": "#f0f0f0",
+      "bottomBorderColor": "#f0f0f0",
+      "textColor": "#a0a0a0",
+      "controlColor": "#a0a0a0",
+      "pressedControlColor": "#de4751"
+    },
+    "table": {
+      "backgroundColor": "#f0f0f0",
+      "separatorColor": "#dedede",
+      "textColor": "#333",
+      "selectedTextColor": "#f0f0f0",
+      "emphasizedTextColor": "#f0f0f0",
+      "detailColor": "#a0a0a0",
+      "selectedDetailColor": "#e9b7bb",
+      "emphasizedDetailColor": "#e9b7bb",
+      "iconColor": "#a0a0a0",
+      "selectedIconColor": "#e9b7bb",
+      "emphasizedIconColor": "#e9b7bb",
+      "rowBgColor": "#f0f0f0",
+      "altRowBgColor": "#f0f0f0",
+      "selectedRowBgColor": "#de4751",
+      "emphasizedRowBgColor": "#de4751",
+      "draggedRowBgColor": "#dedede",
+      "emptyTextColor": "#545454"
+    }
+  },
+  "presentation": {
+    "backgroundColor": "#f0f0f0"
+  },
+  "editor": {
+    "codeCellTheme": "tomorrow_night_eighties",
+    "markdownCellTheme": "tomorrow_night_eighties"
+  },
+  "css": {
+    "className": "red-graphite",
+
+    "editor": ".red-graphite{margin:0 auto;padding:20px;color:#545454}.red-graphite a{color:#de4751}.red-graphite blockquote{color:#333}.red-graphite hr{background-color:#dedede}.red-graphite .cell.inEditMode{border-color:#dedede}.red-graphite .text-cell table,.red-graphite .text-cell table th,.red-graphite .text-cell table td{border:1px solid #dedede!important}.red-graphite .text-cell{background-color:transparent!important}.red-graphite .text-cell strong,.red-graphite .text-cell b,.red-graphite .markdown-cell strong,.red-graphite .markdown-cell b{font-weight:normal}.red-graphite .code-cell .editor,.red-graphite .markdown-cell .ace_editor,.red-graphite .latex-cell .editor{}.red-graphite .markdown-cell .ace_markup.ace_heading.ace_1,.red-graphite .markdown-cell .ace_markup.ace_heading.ace_2,.red-graphite .markdown-cell .ace_markup.ace_heading.ace_3,.red-graphite .markdown-cell .ace_markup.ace_heading.ace_4,.red-graphite .markdown-cell .ace_markup.ace_heading.ace_5,.red-graphite .markdown-cell .ace_markup.ace_heading.ace_6{color:#de4751!important}.red-graphite .markdown-cell .ace_heading,.red-graphite .markdown-cell .ace_string.ace_strong{color:#333!important;font-weight:bold}.red-graphite .markdown-cell .ace_line,.red-graphite .markdown-cell .ace_support.ace_function,.red-graphite .markdown-cell .ace_string.ace_emphasis,.red-graphite .markdown-cell .ace_list,.red-graphite .markdown-cell .ace_string.ace_blockquote,.red-graphite .markdown-cell .ace_constant.ace_language.ace_escape{color:#545454!important}.red-graphite #tag-field{margin:0}.red-graphite #tag-field .tag{background:#f0f0f0;border:none;color:#a0a0a0}.red-graphite #titlearea{padding:0;border:none}.red-graphite #titlearea .title{font-size:32px;margin:0}.red-graphite .cell{margin:26px 0;padding:0;border:1px solid #f0f0f0}.red-graphite #contentarea{margin:26px 0}.red-graphite h1{font-size:34px;margin-bottom:26px}.red-graphite h2{font-size:30px;margin-bottom:26px}.red-graphite h3{font-size:26px;margin-bottom:13px}.red-graphite h4{font-size:21px;margin-bottom:13px}.red-graphite h5{font-size:19px;margin-bottom:13px}.red-graphite h6{font-size:16px;margin-bottom:13px}.red-graphite .markdown-cell .ace_support.ace_function{color:#de4751!important}.red-graphite .markdown-cell .ace_editor{background-color:#f0f0f0!important}.red-graphite .markdown-cell .ace_editor .ace_selection{background-color:#B4D5FE}",
+
+    "preview": ".red-graphite{margin:0 auto;padding:20px;color:#545454}.red-graphite h1,.red-graphite h2,.red-graphite h3,.red-graphite h4,.red-graphite h5,.red-graphite h6,.red-graphite .text-cell b,.red-graphite .text-cell strong{font-weight:normal}.red-graphite ol,.red-graphite ul,.red-graphite li{margin-top:0}.red-graphite a{color:#de4751}.red-graphite table{width:100%}.red-graphite table tr{background-color:#f0f0f0}.red-graphite table tr:nth-child(odd){background-color:#eaeaea}.red-graphite table th{background:#2e3235;color:#f0f0f0;font-weight:normal}.red-graphite table td,.red-graphite table th{border-color:#dedede}.red-graphite blockquote{color:#333;border-color:#de4751}.red-graphite hr{background-color:#dedede}.red-graphite code{padding:3px 6px}.red-graphite .text-cell,.red-graphite .diagram-cell,.red-graphite .markdown-cell{}.red-graphite .code-cell,.red-graphite .latex-cell{}.red-graphite .markdown-cell .ace_line{}.red-graphite #tag-field{margin:0}.red-graphite #tag-field .tag{background:#f0f0f0;border:none;color:#a0a0a0}.red-graphite #titlearea{border:none}.red-graphite #titlearea .title{font-size:32px;margin:0}.red-graphite *+h1,.red-graphite *+h2,.red-graphite *+h3,.red-graphite *+h4,.red-graphite *+h5,.red-graphite *+h6{margin-top:26px}.red-graphite .cell{margin:26px 0;padding:0}.red-graphite #contentarea{margin:26px 0}.red-graphite h1{font-size:34px;margin-bottom:26px}.red-graphite h2{font-size:30px;margin-bottom:26px}.red-graphite h3{font-size:26px;margin-bottom:13px}.red-graphite h4{font-size:21px;margin-bottom:13px}.red-graphite h5{font-size:19px;margin-bottom:13px}.red-graphite h6{font-size:16px;margin-bottom:13px}.red-graphite code{color:#de4751!important}",
+
+    "presentation": ".red-graphite{margin:0 auto;padding:20px;color:#545454}.red-graphite h1,.red-graphite h2,.red-graphite h3,.red-graphite h4,.red-graphite h5,.red-graphite h6{font-weight:normal}.red-graphite a{color:#de4751}.red-graphite table{width:100%}.red-graphite table tr{background-color:#f0f0f0}.red-graphite table tr:nth-child(odd){background-color:#eaeaea}.red-graphite table th{background:#2e3235;color:#f0f0f0;font-weight:normal}.red-graphite table td,.red-graphite table th{border-color:#dedede}.red-graphite blockquote{color:#333;border-color:#de4751}.red-graphite hr{background-color:#dedede}.red-graphite .text-cell,.red-graphite .markdown-cell{background-color:#f0f0f0}.red-graphite .ace-xcode,.red-graphite .code-cell,.red-graphite .latex-cell{}.red-graphite *+h1,.red-graphite *+h2,.red-graphite *+h3,.red-graphite *+h4{margin-top:39px}.red-graphite *+h5,.red-graphite *+h6{margin-top:26px}.red-graphite #titlearea{border:none;padding:75px 0}.red-graphite #titlearea .title{font-size:32px;margin:0}.red-graphite .cell{margin:26px 0;padding:0}.red-graphite #contentarea{margin:26px 0}.red-graphite h1{font-size:34px}.red-graphite h2{font-size:30px}.red-graphite h3{font-size:26px}.red-graphite h4{font-size:21px}.red-graphite h5{font-size:19px}.red-graphite h6{font-size:16px}.red-graphite code{color:#de4751!important}"
+
+  }
+}
