@@ -19,5 +19,5 @@
 3. Open Quiver Preferences (`cmd` + `,`)
 4. Select `Themes` tab in Preferences
 5. Press `Load Theme` button at right side
-6. Select the `Goston-quiver-theme.json` you just downloaded
+6. Select `json` file you just downloaded
 7. Change theme to `Goston-quiver-theme` or `Goston-quiver-gray-theme`
