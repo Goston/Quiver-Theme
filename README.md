@@ -6,11 +6,11 @@
 
 `Goston-quiver-theme`
 
-![Screenshot](https://github.com/Goston/Quiver-Theme/blob/master/Screenshot.png)
+![Screenshot](Screenshot.png)
 
 `Goston-quiver-gray-theme` (Gray background version)
 
-![Screenshot](https://github.com/Goston/Quiver-Theme/blob/master/Screenshot-gray.png)
+![Screenshot](Screenshot-gray.png)
 
 ### Usage
 
